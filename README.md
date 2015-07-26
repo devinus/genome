@@ -6,7 +6,7 @@ still plenty of time to be proven one in the future, but with the passage of
 [GINA][1] it seems like we're already headed in the right direction.
 
 Hopefully we'll all be uploaded to the Singularity a la [Moravec Transfer][2]
-before *Gattica* ever becomes a reality.
+before *Gattaca* ever becomes a reality.
 
 ## Public Domain Dedication
 
