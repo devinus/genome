@@ -5,6 +5,9 @@ the spectre of genetic discrimination. That may make me an idiot, and there's
 still plenty of time to be proven one in the future, but with the passage of
 [GINA][1] it seems like we're already headed in the right direction.
 
+When [$1,000](https://en.wikipedia.org/wiki/$1,000_genome) full genome
+sequencing becomes available it will be added to the data.
+
 Hopefully we'll all be uploaded to the Singularity a la [Moravec Transfer][2]
 before *Gattaca* ever becomes a reality.
 
